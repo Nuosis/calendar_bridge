@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.clarity.calendar-bridge</string>
+
+    <key>CFBundleVersion</key>
+    <string>1</string>
+
+    <!-- Required for .fullAccess -->
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>calendar‑bridge needs full access to read and create your calendar events when invoked by the local automation service.</string>
+</dict>
+</plist>
